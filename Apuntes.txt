@@ -17,3 +17,5 @@ Averiguado, lo estaba haciendo mal, al hacer push la primera celda es de la rama
 archivo, en la segunda celda hay que seleccionar main a segundarama.
 
 Archivo de prueba acabado. editado en segundarama para enviar a main y escribir finalizado junto con la hora y fecha.
+
+Finalizado. 22:53 12.11.20

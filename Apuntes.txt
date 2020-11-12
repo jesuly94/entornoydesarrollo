@@ -1,0 +1,9 @@
+Cuando estamos dentro de una branch(rama) la carpeta de nuestro pc automáticamente la cambia sourcetree
+a la rama donde nos encontramos.
+
+Cuando creamos un archivo como por ejemplo este en una branch cualquiera, para poder subirlo a las demas 
+si la mergeamos esta se fusiona con todos los archivos y algunas veces puede que no resulte de tanta 
+utilidad, por ello cojemos y el archivo le hacemos un pull a la branch de destino y luego en dicha rama con un
+pull bastaria para traerse el archivo.
+
+Fichero Apuntes creado 22:42 12.11.20, probando a subirlo a la rama main para editarlo y volver a modificarlo.

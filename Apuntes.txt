@@ -7,3 +7,7 @@ utilidad, por ello cojemos y el archivo le hacemos un pull a la branch de destin
 pull bastaria para traerse el archivo.
 
 Fichero Apuntes creado 22:42 12.11.20, probando a subirlo a la rama main para editarlo y volver a modificarlo.
+
+
+22:45 Dentro de la rama main volviendo a editar archivo, el push hacia la rama main parece que no funciona, he obtenido 
+el archivo haciendo un pull desde mi segundarama, modifico y vuelvo a enviar a rama segunda.

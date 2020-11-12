@@ -11,3 +11,9 @@ Fichero Apuntes creado 22:42 12.11.20, probando a subirlo a la rama main para ed
 
 22:45 Dentro de la rama main volviendo a editar archivo, el push hacia la rama main parece que no funciona, he obtenido 
 el archivo haciendo un pull desde mi segundarama, modifico y vuelvo a enviar a rama segunda.
+
+
+Averiguado, lo estaba haciendo mal, al hacer push la primera celda es de la rama local segundarama, por ello no subia ningun
+archivo, en la segunda celda hay que seleccionar main a segundarama.
+
+Archivo de prueba acabado. editado en segundarama para enviar a main y escribir finalizado junto con la hora y fecha.
